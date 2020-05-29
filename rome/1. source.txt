@@ -1,4 +1,0 @@
-All data formats in this folder are introduced by Kujala et al. (2018)
-
-Kujala, R., Weckström, C., Darst, R. K., Mladenovic, M. N., & Saramäki, J. (2018). 
-A collection of public transport network data sets for 25 cities. Sci Data, 5, 1-14. doi:10.1038/sdata.2018.89
