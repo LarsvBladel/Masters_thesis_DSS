@@ -14,19 +14,22 @@ ______________________________________________
 SOURCE CODE:
 
 
-Code_[city].ipynb --> These Python Notebooks comprise the data preprocessing and model code per public transport network studied
+Code_[city].ipynb --> Python Notebook covering the data preprocessing and model codes 
+  per public transport network analysed
 
-Descriptive_Statistics_Methods.ipynb --> This Python Notebook comprises the code runned
-  to retreive the descriptive statistics as set out in section 3
+Descriptive_Statistics_Methods.ipynb --> Python Notebook comprising the code for retrieving the data examples, descriptive statistics     and topological features presented in section 3
 
-Presentation_results.ipynb --> This Python Notebook comprises the code runned to visualise
-  the results from the Code_[city].ipynb files 
+Presentation_results.ipynb --> Python Notebook consisting of the code for visualisation of the 
+  results as retrieved from the Code_[city].ipynb code. 
+
 
 DATA:
 
 
-[city].zip --> These zipped folders consists of the data formats this study builds on. These data formats
-  are part of the by Kujala et al. (2018) introduced data collection of public transport networks:
+[city].zip --> Compressed folder per public transport network analysed comprising the following files respectively: a text file
+  referring to the developers of the data, two text files comprising legal statements and licences of the data, the full day-extract
+  network edge list, the network node list, the full day the temporal event list, the data on walking distances; and, finally, geojson
+  files on routes, sections and stops. Data introduced by:
   Kujala, R., Weckström, C., Darst, R. K., Mladenovic, M. N., & Saramäki, J. (2018). A collection of public transport 
   network data sets for 25 cities. Sci Data, 5, 1-14. doi:10.1038/sdata.2018.89
 ______________________________________________
